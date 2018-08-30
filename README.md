@@ -31,9 +31,7 @@ The [BOM](https://github.com/jackziemba/SPI-Flasher/blob/master/spi_flash_progra
 ### IC sockets ###
 The IC sockets are available from [www.test-socket.com](http://www.test-socket.com/#8)
 
-8-WDFN - 08QN12T16050
-8-SOP - 652C0082211W003
-8-Narrow SOP - 652B0082211-002
+8-WDFN - 08QN12T16050, 8-SOP - 652C0082211W003, 8-Narrow SOP - 652B0082211-002
 
 
 ### Display ###
