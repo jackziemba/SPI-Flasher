@@ -1,3 +1,4 @@
+
 ## SPI Flash Programmer ##
 
 The SPI flash programmer allows users to program the impOS for imp004m and imp005 into a SPI flash chip. You will need to copy the agent and device code from the git repository into your ImpCentral account and program it to the SPI Flash programmer.
@@ -22,7 +23,7 @@ The SPI flash programmer supports 8-WDFN, 8-SOP, narrow 8-SOP and has a 10 pin J
 ## Assembly ##
 
 ### PCB ###
-Download the gerber files. You will need to send these to a PCB manufacturer.
+Download the [gerber](https://github.com/jackziemba/SPI-Flasher/blob/master/spi_flash_programmer_gerbers.zip) files. You will need to send these to a PCB manufacturer.
 
 ### Bill of Materials ###
 The [BOM](https://github.com/jackziemba/SPI-Flasher/blob/master/spi_flash_programmer_BOM.csv) contains a list of all the components that can be ordered from [digikey](https://www.digikey.com/).
