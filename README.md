@@ -22,7 +22,7 @@ The SPI flash programmer supports 8-WDFN, 8-SOP, narrow 8-SOP and has a 10 pin J
 ## Assembly ##
 
 ### PCB ###
-Download the Altium/Gerber files. You will need to send these to a PCB manufacturer.
+Download the gerber files. You will need to send these to a PCB manufacturer.
 
 ### Bill of Materials ###
 The [BOM](https://github.com/jackziemba/SPI-Flasher/blob/master/spi_flash_programmer_BOM.csv) contains a list of all the components that can be ordered from [digikey](https://www.digikey.com/).
