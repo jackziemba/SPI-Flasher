@@ -22,10 +22,10 @@ The SPI flash programmer supports 8-WDFN, 8-SOP, narrow 8-SOP and has a 10 pin J
 ## Assembly ##
 
 ### PCB ###
-Download the Altium/Gerber files. You will need to send these to a PCB manufacturer such as Osh Park or Elecrow. 
+Download the Altium/Gerber files. You will need to send these to a PCB manufacturer.
 
 ### Bill of Materials ###
-The BOM contains a list of all the components that can be ordered from [digikey](https://www.digikey.com/).
+The [BOM](https://github.com/jackziemba/SPI-Flasher/blob/master/spi_flash_programmer_BOM.csv) contains a list of all the components that can be ordered from [digikey](https://www.digikey.com/).
 
 
 ### IC sockets ###
@@ -41,5 +41,5 @@ The IC sockets are available from [www.test-socket.com](http://www.test-socket.c
 The display is available from [BuyDisplay](https://www.buydisplay.com/default/oled-display-arduino-3-2-inch-graphic-serial-module-256x64-blue-on-black).
 
 ### Stacked Acrylic Enclosure ###
-These pieces can be laser cut using the .svg files in the repository. The enclosure is not a necessary component to the SPI flash programmers functionality.
+These pieces can be laser cut using the [.svg](https://github.com/jackziemba/SPI-Flasher/blob/master/spi-flasher-acrylic.zip) files in the repository. The enclosure is not a necessary component to the SPI flash programmers functionality.
 
