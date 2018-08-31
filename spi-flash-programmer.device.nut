@@ -16,7 +16,6 @@ class OLED_ssd1306 {
         "\xa0\x14\x11",     // Remap format
         "\xb5\x00",         // Set GPIO
         "\xab\x01",         // Function selection
-        //"\xb4\xa0\xfd",     // Display enhancement A (makes it look all nasty on the bare glass displays)
         "\xc1\x9f",         // Contrast current
         "\xc7\x0f",         // Master current
         "\xb9",             // Linear greyscale
