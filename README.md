@@ -18,6 +18,9 @@ The SPI flash programmer supports 8-WDFN, 8-SOP, narrow 8-SOP and has a 10 pin J
  
  ### Toggle Switches ###
  The device has two toggle switches, *Ext En* and *3V3 Ext*. The *Ext En* switch is used to enable the 10 Pin J-Tag connector. The *3V3 En* switch will enable power to the 3V3 pin on the 10 Pin J-Tag connector.
+ 
+ ### Footswitch ###
+ A 3.5mm jack is available to use a footswitch in place of the *SELECT* button.
 
 
 ## Assembly ##
