@@ -3,8 +3,6 @@
 
 The SPI flash programmer allows users to program the impOS for imp004m and imp005 into a SPI flash chip. You will need to copy the agent and device code from the git repository into your ImpCentral account and program it to the SPI Flash programmer.
 
-!(https://github.com/jackziemba/SPI-Flasher/blob/master/README.md)
-
 ## Device Usage ##
 
 Once the code is loaded on the device you will see the main menu on the display. Select between imp004, imp005 or private cloud and press *ENTER*. The device will start downloading the impOS image from the cloud and the screen will display the status. Once this is complete you can press *ENTER* to begin flashing your SPI flash chip. The *SELECT* button can be used to return to the main menu. If you are in the main menu you can program a SPI flash chip again without downloading the image by selecting the image that is already stored. The stored image is displayed at the top of the screen. 
@@ -20,6 +18,9 @@ The SPI flash programmer supports 8-WDFN, 8-SOP, narrow 8-SOP and has a 10 pin J
  
  ### Toggle Switches ###
  The device has two toggle switches, *Ext En* and *3V3 Ext*. The *Ext En* switch is used to enable the 10 Pin J-Tag connector. The *3V3 En* switch will enable power to the 3V3 pin on the 10 Pin J-Tag connector.
+ 
+ ### Footswitch ###
+ A 3.5mm jack is available to use a footswitch in place of the *SELECT* button.
 
 
 ## Assembly ##
